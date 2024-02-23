@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "184754421899",
+    "project_id": "saidi-sales",
+    "storage_bucket": "saidi-sales.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184754421899:android:e96065fd35f874252e548e",
+        "android_client_info": {
+          "package_name": "com.example.sales"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3IyTeCnNeeVjT5xboO1Iv1lywt09xfOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
